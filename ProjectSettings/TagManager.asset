@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Undurable
+  - Fireball
+  - Enemy
+  - FinishLevel2
+  - FinishLevel1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4264672105
+    locked: 0
+  - name: Wall
+    uniqueID: 2607549387
+    locked: 0
+  - name: Foreground
+    uniqueID: 3845072311
+    locked: 0
+  - name: Player
+    uniqueID: 3699606731
+    locked: 0
+  - name: Obstacle
+    uniqueID: 308855285
+    locked: 0
