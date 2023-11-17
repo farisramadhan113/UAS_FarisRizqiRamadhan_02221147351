@@ -10,4 +10,4 @@ https://youtu.be/H4VqoPLqLaE
 
 c. Link file aplikasi, bisa berupa *.exe atau *.apk.
 
-https://drive.google.com/drive/folders/1kB6lmFdwOjdLSrfNZ8eczqkzKD_OCdl_?usp=drive_link
+https://drive.google.com/drive/folders/1aw-VipsyHj8bYrT4qo-JjPkgs_0nuDVq?usp=drive_link
